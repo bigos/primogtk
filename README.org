@@ -1,0 +1,2 @@
+* PrimoGtk
+A record of a Haskell beginner experimenting with Gtk GUI on Haskell.
