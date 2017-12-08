@@ -1,7 +1,10 @@
 * PrimoGtk
 A record of a Haskell beginner experimenting with Gtk GUI on Haskell.
 ** dependencies
-Install gi-gtk
+
 #+BEGIN_EXAMPLE
-cabal install gi-gtk
+cabal sandbox init
+cabal update
+cabal install
+cabal run
 #+END_EXAMPLE
